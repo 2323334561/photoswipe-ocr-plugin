@@ -1,0 +1,1 @@
+# photoswipe-ocr-plugin
